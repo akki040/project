@@ -1,0 +1,30 @@
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\appsettings.json
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.staticwebassets.runtime.json
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.exe
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.deps.json
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.runtimeconfig.json
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.dll
+C:\Users\akash\Desktop\new project\bin\Debug\net8.0\new project.pdb
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.AssemblyInfoInputs.cache
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.AssemblyInfo.cs
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.RazorAssemblyInfo.cache
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.RazorAssemblyInfo.cs
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets\msbuild.build.new project.props
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\scopedcss\bundle\new project.styles.css
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\scopedcss\projectbundle\new project.bundle.scp.css
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.dll
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\refint\new project.dll
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.pdb
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\new project.genruntimeconfig.cache
+C:\Users\akash\Desktop\new project\obj\Debug\net8.0\ref\new project.dll
