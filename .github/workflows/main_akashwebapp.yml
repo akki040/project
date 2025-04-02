@@ -55,4 +55,4 @@ jobs:
           app-name: 'akashwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CD6F291E6B643B9A0B5F44572308D0C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D93D8D8FD6004DE0A51BE9361EEF49EB }}
